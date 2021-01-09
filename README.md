@@ -1,7 +1,9 @@
-# EvenLineThicknessSample
+# Even Line Thickness Sample
 
 A simple demo to show how to take a line strip and calculate a shape equivalent
 to the line strip with a uniform width.
+
+![alt text](Screenshot.png)
 
 The demo is a single scene with a single .cs file.
 
